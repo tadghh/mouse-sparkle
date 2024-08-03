@@ -1,5 +1,8 @@
 # mouse-sparkle
+Use the following site to make a clip path https://www.cssportal.com/css-clip-path-generator/
+more sparkles = add more clip paths ez stuff
 
+# Script
 ```js
 // ==UserScript==
 // @name         Mouse Trail Stars
